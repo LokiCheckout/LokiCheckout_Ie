@@ -1,6 +1,6 @@
 # LokiCheckout_Ie
 
-**This Magento 2 module is an add-on package for the country `Ie`.
+**This Magento 2 module is an add-on package for Ireland.**
 
 ## Installation
 Install this package via composer:
